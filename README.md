@@ -18,7 +18,7 @@ The presence of outliers in several property types highlights the existence of p
 Certain property types, like Boats and Treehouses, show higher median prices, possibly due to their unique or niche appeal.These insights can be used to understand the competitive landscape within the Seattle Airbnb market and to strategize pricing and marketing efforts for listings.
 
 
-# Seasonal Trends and Revenue Optimization:
+## Seasonal Trends and Revenue Optimization:
 
 The visualizations provide insights into the seasonal trends and price fluctuations for Airbnb listings in Seattle:
 
