@@ -88,4 +88,13 @@ At the lower end of the price spectrum, Dorms and Tents represent the most budge
 
 This analysis suggests that property type is a critical factor in pricing strategy, with unique or higher-end property types enabling hosts to charge more.
 
+##Results
 
+##The analysis revealed:
+
+Seasonal trends impacting booking rates and pricing strategies.
+Key factors influencing listing prices, including property type and location.
+High-demand areas within Seattle for Airbnb listings.
+Sentiments expressed in customer reviews, highlighting areas of strength and opportunities for improvement.
+
+Detailed data code and other visualisations code are documented in the Airbnb_Analysis.ipynb notebook.
