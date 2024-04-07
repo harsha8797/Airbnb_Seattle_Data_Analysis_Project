@@ -88,9 +88,9 @@ At the lower end of the price spectrum, Dorms and Tents represent the most budge
 
 This analysis suggests that property type is a critical factor in pricing strategy, with unique or higher-end property types enabling hosts to charge more.
 
-##Results
+## Results
 
-##The analysis revealed:
+## The analysis revealed:
 
 Seasonal trends impacting booking rates and pricing strategies.
 Key factors influencing listing prices, including property type and location.
